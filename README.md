@@ -96,7 +96,7 @@ sql\
 select max(total_laid_off), min(total_laid_off)\
 from layoffs_staging2;
 
-## Expected Outcomes
+## Expected Outcomes:
 A detailed report on the companies most affected by layoffs, both in total number and percentage of employees laid off.
 Insights into years with the highest layoff rates and potential causes (e.g., economic downturns, global events).
 Industry-specific analysis to determine if certain sectors were disproportionately affected.
